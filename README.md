@@ -1,2 +1,2 @@
 # TestRepo
-Test Repo for remote connections 
+This is a test public repo for remote connections
